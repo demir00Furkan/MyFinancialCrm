@@ -192,7 +192,7 @@
             this.Controls.Add(this.dataGridView1);
             this.Name = "FrmBankProcceses";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "FrmBankProcceses";
+            this.Text = "BankProcceses";
             this.Load += new System.EventHandler(this.FrmBankProcceses_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
             this.panel1.ResumeLayout(false);

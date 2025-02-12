@@ -337,7 +337,7 @@
             this.Controls.Add(this.panel2);
             this.Name = "FrmSpendings";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "FrmSpendings";
+            this.Text = "Spendings";
             this.Load += new System.EventHandler(this.FrmSpendings_Load);
             this.panel1.ResumeLayout(false);
             this.panel3.ResumeLayout(false);

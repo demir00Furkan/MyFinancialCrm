@@ -441,7 +441,7 @@
             this.Controls.Add(this.panel1);
             this.Name = "FrmBanks";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Form1";
+            this.Text = "Banks";
             this.Load += new System.EventHandler(this.FrmBanks_Load);
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();

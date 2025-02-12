@@ -336,7 +336,7 @@
             this.Controls.Add(this.panel1);
             this.Name = "FrmBilling";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "FrmBilling";
+            this.Text = "Billing";
             this.Load += new System.EventHandler(this.FrmBilling_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
             this.panel3.ResumeLayout(false);

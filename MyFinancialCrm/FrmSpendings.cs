@@ -49,9 +49,7 @@ namespace MyFinancialCrm
 
         private void btnGiderler_Click(object sender, EventArgs e)
         {
-            FrmSpendings frm = new FrmSpendings();
-            frm.Show();
-            this.Hide();
+            
         }
 
         private void btnDashboard_Click(object sender, EventArgs e)
