@@ -54,6 +54,6 @@ Bu Form Kullanıcının Giriş Bilgileri İle İlgili Güncelleme Ve Silme (Hesa
 Kullanıcı Hesabına Giriş Yaptığı Esnada Kullanıcı Adı Ve Şifresi Bir Sınıfta Tutuluyor Ve Settings Formundaki İşlemler İçin Kullanılıyor. 
 Bu Durumda Kullanıcı Hiçbir Veri Girmeden, Sadece Güncellenecek Veriyi Textboxa Girmesi Yeterli Oluyor. Hesabımı Sil İçin İse Kullanıcı Güveliği
 İçin Hesabını Doğrulaması İstenmektedir. Hesap Bilgilerini Girdikten Sonra Hesabımı Sil Butonuna Basılır. Daha Sonra Kullanıcının Kararından Emin Olmak 
-İçin MessageBox Aracılığıyla Bir Evet Hayır Girdisi Alınır. Evet İse Hesap Databaseden Silinir Hayıt İse Bir MessageBox Daha Verilir,  (İşlemden Vazgeçtiniz) Yazar. 
+İçin MessageBox Aracılığıyla Bir Evet Hayır Girdisi Alınır. Evet İse Hesap Databaseden Silinir Hayır İse Bir MessageBox Daha Verilir,  (İşlemden Vazgeçtiniz) Yazar. 
 
 
